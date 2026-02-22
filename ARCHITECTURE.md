@@ -28,3 +28,7 @@
 - **Skeleton** — MUI Skeleton matches the theme and gives a simple loading state.
 
 - **Card / Paper** — Tiles and modal/sheet content use Card and Paper for clear boundaries and a bit of elevation.
+
+### Note
+
+A 2-second delay is added to the API routes on purpose so you can see the loading skeletons.
