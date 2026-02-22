@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   title: 'Dashboard'
 }
 
-const HomePage = () => {
+const DashboardPage = () => {
   return <PageChildren />
 }
 
-export default HomePage
+export default DashboardPage
